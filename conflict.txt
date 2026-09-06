@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from MAIN branch
+=======
+hello from conflict demo
+>>>>>>> conflict-demo
