@@ -9,3 +9,5 @@ pull request
 .gitignore
 ##author
 sruthii
+##learning
+currently learning git and github practically
